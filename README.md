@@ -7,7 +7,6 @@
     (Use Both tho)
 - My Platforms:
     -Discord: Mercyless#1001
-- 
 
 
 ## Programming Languages
