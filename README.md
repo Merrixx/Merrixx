@@ -6,8 +6,8 @@
 * Linux > Windows
     (Use Both tho)
 * My Platforms:
-- Discord: Mercyless#1001
-- Discord Server: https://discord.gg/DmGQvB7RWJ
+> Discord: Mercyless#1001
+> Discord Server: https://discord.gg/DmGQvB7RWJ
 
 ## Programming Languages
 * Python
