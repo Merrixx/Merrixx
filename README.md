@@ -1,4 +1,4 @@
-## Stuff about me: 
+# Stuff about me: 
 * Austrian Student, 17 Years old and Addicted to anime
 * Straight
 * Linux > Windows
@@ -8,13 +8,13 @@
 > Discord Tag: Mercyless#1001
 > Discord Server: https://discord.gg/DmGQvB7RWJ
 ```
-## Programming Languages
+# Programming Languages
 * Python
 * JavaScript
 * C++ (Not much tho)
 
 
-## My Linux install
+# My Linux install
 * ArchLinux
 * X11
 * Herbstluftwm
