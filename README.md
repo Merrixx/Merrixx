@@ -6,10 +6,10 @@
 * Linux > Windows
     (Use Both tho)
 * My Platforms:
-> Discord: Mercyless#1001
-
+```
+> Discord Tag: Mercyless#1001
 > Discord Server: https://discord.gg/DmGQvB7RWJ
-
+```
 ## Programming Languages
 * Python
 * JavaScript
@@ -18,5 +18,8 @@
 
 ## My Linux install
 * ArchLinux
-* herbstluftwm
+* X11
+* Herbstluftwm
+* kitty
 * lightdm
+* Polybar
