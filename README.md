@@ -1,4 +1,4 @@
-### Hey, I am Merrixx. I am interested in Coding, Security and Linux
+# Hey, I am Merrixx. I am interested in Coding, Security and Linux
 
 ## Stuff about me: 
 * Austrian Student, 17 Years old and Addicted to anime
