@@ -1,5 +1,3 @@
-# Hey, I am Merrixx
-
 ## Stuff about me: 
 * Austrian Student, 17 Years old and Addicted to anime
 * Straight
