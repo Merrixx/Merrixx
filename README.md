@@ -11,13 +11,4 @@
 # Programming Languages
 * Python
 * JavaScript
-* C++ (Not much tho)
-
-
-# My Linux install
-* ArchLinux
-* X11
-* Herbstluftwm
-* kitty
-* lightdm
-* Polybar
+* C++
