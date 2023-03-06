@@ -4,7 +4,7 @@
     (Use Both tho)
 * My Platforms:
 ```
-> Discord Tag: Mercyless#1001
+> Discord: Mercyless
 ```
 # Programming Languages
 * Python
