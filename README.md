@@ -2,7 +2,7 @@
 * Linux :handshake: Windows ( Love both )
 * My Platforms:
 ```
-> Discord: Mercyless
+> Discord: merrixx
 ```
 # Programming Languages
 * Python
