@@ -1,12 +1,11 @@
 # Stuff about me: 
-* Austrian Student, 18 years old
-* Linux > Windows
-    (Use Both tho)
+* Linux :handshake: Windows ( Love both )
 * My Platforms:
 ```
 > Discord: Mercyless
 ```
 # Programming Languages
 * Python
+* Rust
 * JavaScript
 * C++
